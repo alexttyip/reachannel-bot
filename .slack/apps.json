@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "E07TUP6FDTQ": {
+      "app_id": "A07U1PCFKDH",
+      "enterprise_id": "E07TUP6FDTQ",
+      "team_domain": "aleyip-sandbox",
+      "team_id": "E07TUP6FDTQ"
+    }
+  },
+  "default": "aleyip-sandbox"
+}
